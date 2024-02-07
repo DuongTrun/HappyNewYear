@@ -6,7 +6,6 @@ var modal = document.querySelector('.modal')
 const fireWork = document.querySelector('.pyro')
 
 
-
 const changeColor = () => {
     headerText.style.color =
     headerText.style.color == "pink" ? "yellow" : "pink";
