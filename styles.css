@@ -61,8 +61,7 @@
     width: 100vw;
     height: 100vh;
     background-color: rgba(0,0,0,0.6);
-    overflow: hidden;
-
+    overflow: hidden;s
 }
 .modal_inner {
     width: 450px;
