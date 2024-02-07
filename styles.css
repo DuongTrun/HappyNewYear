@@ -79,14 +79,18 @@
 
 
 .modal_header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 7px;
-    background-color:rgb(238, 58, 58) ;
-    font-size: 14px;
-    color: #f1ebeb;
-    font-family: 'Lobster', sans-serif;
+  position: fixed;
+  top: 81px;
+  left: 236px;
+  right: 236px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7px;
+  background-color: rgb(238, 58, 58);
+  font-size: 14px;
+  color: #f1ebeb;
+  font-family: 'Lobster', sans-serif;
 }
 
 .modal_header i:hover {
