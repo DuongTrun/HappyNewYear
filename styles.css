@@ -80,9 +80,6 @@
 
 .modal_header {
   position: fixed;
-  top: 81px;
-  left: 236px;
-  right: 236px;
   display: flex;
   justify-content: space-between;
   align-items: center;
